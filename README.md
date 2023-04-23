@@ -55,4 +55,3 @@ Cette fonction détruit la liste chaînée spécifiée.
 
 * `inverser_liste_chaine(struct Tete* tete)`
 Cette fonction inverse l'ordre des éléments dans la liste chaînée spécifiée.
->>>>>>> 25b4c52866e8d688bef53716e447bb59812595a3
