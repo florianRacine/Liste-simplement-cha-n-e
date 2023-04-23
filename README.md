@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Liste-simplement-chainee
-Libraire pour creer une liste simplement chaînée
-=======
-<h1> Librairie Liste chaînée </h1>
+h1> Librairie Liste chaînée </h1>
 
 Le programme en C fourni dans ce fichier est un exemple de manipulation d'une liste chaînée. La liste chaînée est une structure de données dynamique qui permet de stocker une collection d'éléments de manière séquentielle en utilisant des liens entre eux.
 
